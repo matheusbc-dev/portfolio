@@ -1,6 +1,5 @@
 import SocialNetworkContainer from "./SocialNetworkContainer";
 import InformationContainer from "./InformationContainer";
-
 import Avatar from "../img/naruto.png";
 
 import "../styles/components/sidebar.sass";

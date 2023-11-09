@@ -4,6 +4,7 @@ import {
   DiJsBadge,
   DiNodejsSmall,
   DiReact,
+  DiPython
 } from "react-icons/di";
 
 import "../styles/components/technologiescontainer.sass";
@@ -14,6 +15,7 @@ const technologies = [
   { id: "js", name: "JavaScript", icon: <DiJsBadge /> },
   { id: "node", name: "Node.js", icon: <DiNodejsSmall /> },
   { id: "react", name: "React", icon: <DiReact /> },
+  { id: "python", name: "Python", icon: <DiPython/> },
 ];
 
 const TechnologiesContainer = () => {

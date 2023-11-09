@@ -4,8 +4,8 @@ const ProjectsContainer = () => {
       <h2>Projetos</h2>
       <p>
         A aba de projetos ainda está em andamento. 
-        Tenho alguns em mente mas ainda estou pensando
-        no desenvolvimento deles.
+        Tenho alguns em mente mas ainda não os coloquei
+        para desenvolvimento.
       </p>
       <a href="#" className="btn">
         Ver Projetos
