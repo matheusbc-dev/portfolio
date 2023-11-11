@@ -1,6 +1,8 @@
-# como rodar a aplicação
-npm run dev
+# Porfólio Pessoal
+Sejam Bem Vindos ao meu portfólio!
 
-# atualizações
+## Sobre o Projeto
+O projeto foi criado com intuito de facilitar a visualização dos meus futuros projetos, e também, foi feito para estudo pessoal.
 
-ainda restam implementar algumas funcionalidades, como o download do curriculo
+## Imagem do Projeto
+![portfolio](https://github.com/matheusbc-dev/portfolio/assets/120420165/57664ed1-aeb4-48a7-8df1-e41907414ee3)
